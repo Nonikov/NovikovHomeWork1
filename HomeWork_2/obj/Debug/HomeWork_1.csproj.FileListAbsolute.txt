@@ -1,0 +1,7 @@
+C:\Users\Admin\Downloads\Telegram Desktop\HomeWork_1\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.exe.config
+C:\Users\Admin\Downloads\Telegram Desktop\HomeWork_1\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.exe
+C:\Users\Admin\Downloads\Telegram Desktop\HomeWork_1\HomeWork_1\HomeWork_1\bin\Debug\HomeWork_1.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\HomeWork_1\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Telegram Desktop\HomeWork_1\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.exe
+C:\Users\Admin\Downloads\Telegram Desktop\HomeWork_1\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.pdb
+C:\Users\Admin\Downloads\Telegram Desktop\HomeWork_1\HomeWork_1\HomeWork_1\obj\Debug\HomeWork_1.csprojResolveAssemblyReference.cache
